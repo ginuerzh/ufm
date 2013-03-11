@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ufm
+Comment=My project description
+Exec=/usr/bin/qmlscene
+Icon=qmlscene
+Terminal=false
+Type=Application

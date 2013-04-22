@@ -35,8 +35,8 @@ MainView {
         Tab {
             id: fm
             objectName: "FMTab"
-            
-            title: channel.name + "MHz"
+            title: "douban.FM"
+            //title: channel.name + "MHz"
             page: Player { id: player }
         }
 
